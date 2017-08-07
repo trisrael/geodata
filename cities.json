@@ -1,4 +1,4 @@
-citiesCallback({
+{
   "adak": {
     "lat": 51.883,
     "lon": -176.633,
@@ -3965,4 +3965,4 @@ citiesCallback({
     "wikipedia": "Nukulaelae",
     "city": "Nukulaelae"
   }
-});
+}
